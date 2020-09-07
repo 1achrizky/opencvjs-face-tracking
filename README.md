@@ -11,10 +11,13 @@ Update the keys/Secret in the *server.js* file and deploy and start using it.
 The above file has code how to start the camera and track the face.
 We intend to use functionality of the `CascadeClassifier` to detect and recognise the faces using already defined `haarcascade frontalface model`.
 
-# Library used:
+### Library used:
 * opencv.js
 
-# Sample
+### Sample
+![screenshot-1](/screenshots/Screenshot-1.png?raw=true "Screenshot 1")
+![screenshot-2](/screenshots/Screenshot-2.png?raw=true "Screenshot 2")
+![screenshot-3](/screenshots/Screenshot-3.png?raw=true "Screenshot 3")
 
-# IMP
+### IMP
 Currently image submission will throw error as S3 secrets in the server.js are not present.
