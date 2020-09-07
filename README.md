@@ -7,6 +7,8 @@ This project uses feature of OpenCV using a JS library to somethely detect recog
 The purpose of the project was to build a simple easy to web app where user can register there facial recognition, app track the user face and capture face specified in the red highlighted square box which images were uploaded to a S3 Bucket to trained for someother use case.
 Update the keys/Secret in the *server.js* file and deploy and start using it.
 
+## [Check it out Live!](https://opencv-face-tracking.herokuapp.com/)
+
 [index.js](assets/js/index.js) 
 The above file has code how to start the camera and track the face.
 We intend to use functionality of the `CascadeClassifier` to detect and recognise the faces using already defined `haarcascade frontalface model`.

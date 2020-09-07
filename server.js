@@ -25,10 +25,13 @@ app.use(function(req, res, next) {
     next();
 });
 
-const BUCKET_NAME = 'edunext-2018-cctv-faces';
-const bucketDirname = 'register/';
-const SECRET_KEY = 'uDO1z0K/YwqN5VMdyoie0aCn/zt4+hpOZE7UGYTr';
-const ACCESS_KEY = 'AKIAIYZRYLUU625BGBQQ';
+/**
+ * Update these to use in prod
+ */
+const BUCKET_NAME = 'BUCKET_NAME';
+const bucketDirname = 'DIR_NAME/';
+const SECRET_KEY = 'SECRET_KEY';
+const ACCESS_KEY = 'ACCESS_KEY';
 
 aws.config.update({
     secretAccessKey: SECRET_KEY,
