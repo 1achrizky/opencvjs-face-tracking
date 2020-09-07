@@ -15,8 +15,7 @@ We intend to use functionality of the `CascadeClassifier` to detect and recognis
 * opencv.js
 
 ### Sample
-![screenshot-1](/screenshots/Screenshot-1.png?raw=true "Screenshot 1")
-<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="256" height="256" title="Github Logo">
+<img src="https://github.com/harshitsidhwa/opencvjs-face-tracking/blob/master/screenshots/Screenshot-1.png?raw=true" width="256" height="256" title="Screenshot 1">
 ![screenshot-2](/screenshots/Screenshot-2.png?raw=true "Screenshot 2")
 ![screenshot-3](/screenshots/Screenshot-3.png?raw=true "Screenshot 3")
 
