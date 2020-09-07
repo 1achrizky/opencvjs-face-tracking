@@ -15,9 +15,9 @@ We intend to use functionality of the `CascadeClassifier` to detect and recognis
 * opencv.js
 
 ### Sample
-<img src="https://github.com/harshitsidhwa/opencvjs-face-tracking/blob/master/screenshots/Screenshot-1.png?raw=true" width="500" height="500" title="Screenshot 1">
-<img src="https://github.com/harshitsidhwa/opencvjs-face-tracking/blob/master/screenshots/Screenshot-2.png?raw=true" width="500" height="500" title="Screenshot 1">
-<img src="https://github.com/harshitsidhwa/opencvjs-face-tracking/blob/master/screenshots/Screenshot-3.png?raw=true" width="500" height="500" title="Screenshot 1">
+<img src="https://github.com/harshitsidhwa/opencvjs-face-tracking/blob/master/screenshots/Screenshot-1.png?raw=true" width="500" height="300" title="Screenshot 1">
+<img src="https://github.com/harshitsidhwa/opencvjs-face-tracking/blob/master/screenshots/Screenshot-2.png?raw=true" width="500" height="300" title="Screenshot 1">
+<img src="https://github.com/harshitsidhwa/opencvjs-face-tracking/blob/master/screenshots/Screenshot-3.png?raw=true" width="500" height="300" title="Screenshot 1">
 
 ### IMP
 Currently image submission will throw error as S3 secrets in the server.js are not present.
