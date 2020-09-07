@@ -1,0 +1,20 @@
+{  "name": "opencv-face-tracking",
+  "version": "1.0.1",
+  "description": "Face tracking and capture using Opencv-Js",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "multer-s3": "^2.9.0",
+    "multer": "1.4.1",
+    "aws-sdk": "2.391.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Harshit Sidhwa",
+  "license": "ISC"
+}
