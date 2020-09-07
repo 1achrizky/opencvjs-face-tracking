@@ -15,9 +15,10 @@ We intend to use functionality of the `CascadeClassifier` to detect and recognis
 * opencv.js
 
 ### Sample
-![screenshot-1](/screenshots/Screenshot-1.png?raw=true "Screenshot 1"){:height="50%" width="50%"}
-![screenshot-2](/screenshots/Screenshot-2.png?raw=true "Screenshot 2"){:height="50%" width="50%"}
-![screenshot-3](/screenshots/Screenshot-3.png?raw=true "Screenshot 3"){:height="50%" width="50%"}
+![screenshot-1](/screenshots/Screenshot-1.png?raw=true "Screenshot 1")
+<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="256" height="256" title="Github Logo">
+![screenshot-2](/screenshots/Screenshot-2.png?raw=true "Screenshot 2")
+![screenshot-3](/screenshots/Screenshot-3.png?raw=true "Screenshot 3")
 
 ### IMP
 Currently image submission will throw error as S3 secrets in the server.js are not present.
